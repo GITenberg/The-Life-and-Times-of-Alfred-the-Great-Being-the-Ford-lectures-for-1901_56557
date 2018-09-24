@@ -1,11 +1,16 @@
 _repo: The-Life-and-Times-of-Alfred-the-Great-Being-the-Ford-lectures-for-1901_56557
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56557-h/images/cover.jpg
 creator:
   author:
     agent_name: Plummer, Charles
     gutenberg_agent_id: '48916'
     url: http://www.gutenberg.org/2009/agents/48916
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56557#The-Life-and-Times-of-Alfred-the-Great-Being-the-Ford-lectures-for-1901
 gutenberg_issued: '2018-02-13'
 gutenberg_type: Text
 identifiers:
